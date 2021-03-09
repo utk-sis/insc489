@@ -2,11 +2,13 @@
 
 # General Project Instructions and Requirements
 
-Please read [final project instructions](https://utk.instructure.com/courses/121275/files/8515899?module_item_id=1825876) posted on Canvas.
+Please read [final project instructions](https://github.com/utk-sis/insc489-21Spring/blob/main/project/final-project-instructions.md).
 
 # Submission
 
-Submit your project proposal as a [markdown document](https://guides.github.com/features/mastering-markdown/) (recommended) or a pdf to the GitHub repo for your project by Mar 17, Wed, 11:59pm. 
+Submit your project proposal as a [markdown document](https://guides.github.com/features/mastering-markdown/) (recommended) or a pdf to the GitHub repo for your project by Mar 17, Wed, 11:59pm. The file name should be "proposal.md/pdf"
+
+GitHub invitation: https://classroom.github.com/a/-tRvZPwb
 
 You will use the repo to submit all of your project deliverables.
 
