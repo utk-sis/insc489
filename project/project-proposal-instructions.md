@@ -1,4 +1,4 @@
-# INSC 489 - 21Spring - Project Proposal
+# INSC 489 - Project Proposal
 
 # General Project Instructions and Requirements
 
