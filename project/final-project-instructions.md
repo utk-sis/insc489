@@ -6,11 +6,10 @@ You will work on a final project **independently**. The goal of the project is 
 
 There are a few milestones for the final project.
 
-1. **March 17, Wednesday**: Project Proposal (50 points, it is a part of Assignment 3.)
-2. **March 31, Wednesday**: Project Progress Update 1 (25 points, it is a part of Assignment 4.)
-3. **April 14, Wednesday**: Project Progress Update 2 (25 points, it is a part of Assignment 5.)
-4. **April 29:** Project Presentation (40 points for your presentation, 10 points for your participation in other students’ presentations.)
-5. **May 10**: Final Project Report and Project Repo (150 points).
+1. **April 13, Wednesday**: Project Proposal. (50 points).
+2. **April 25, Monday**: Project Progress Update (50 points).
+3. **May 9:** Project Presentation (45 points for your presentation, 5 points for your participation in other students’ presentations).
+4. **May 17**: Final Project Report and Project Repo (150 points).
 
 # General Project Requirements
 
@@ -35,17 +34,18 @@ There are several deliverables for your project that will be graded individually
 
 You need to describe the title, the motivation, the data, and the initial questions you want to answer through your analysis. The content can be incorporated into your final report.
 
-## Project Progress Updates
+## Project Progress Update
 
-You need to submit your project updates twice, along with Assignment 4 and 5.
+Project progress update should include some significant work, such as data processing, one or more visualization views, and some interactions.
 
 ## Presentation
 
-You will give a 15-minute presentation to show your data, visualizations, and findings in the last class.
+You will give a 8-minute presentation to show your data, visualizations, and findings in the last class.
 
 ## Project Report
 
-You will use a word/pdf document to present your project report. The project is mainly used to present your project background, method, and results. You don't have to include your code in the report but you can include some code snippets to illustrate your methods.
+You will use a word/pdf document to present your project report. The project is mainly used to present your project background, method, and results. You don't have to include your code in the report but you can include some code snippets to describe your methods.
+
 
 The report should include the following topics. Depending on the project type, the amount of discussion devoted to each will vary:
 
@@ -60,7 +60,7 @@ The report should include the following topics. Depending on the project type, t
 
 ## Project Repo
 
-You need submit your code for implementing the visualization system to your project GitHub repo. 
+You need to submit your code for implementing the visualization system to your project GitHub repo. 
 
 # Grading
 
