@@ -1,4 +1,4 @@
-# INSC 489 - 21Spring - Final Project
+# INSC 489 - Final Project
 
 You will work on a final project **independently**. The goal of the project is to create an interactive visualization project to answer questions you have about a topic of your own choosing. You are free to use Tableau Prep for data preprocessing and Tableau for preliminary analysis, but eventually you have to deliver **a fully-functioned visualization system implemented by using D3.js and JavaScript**. Data processing and visualization via Tableau are optional. 
 
