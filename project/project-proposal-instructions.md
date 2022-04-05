@@ -6,7 +6,7 @@ Please read [final project instructions](https://github.com/utk-sis/insc489-21Sp
 
 # Submission
 
-Submit your project proposal as a [markdown document](https://guides.github.com/features/mastering-markdown/) (recommended) or a pdf to the GitHub repo for your project by Mar 17, Wed, 11:59pm. The file name should be "proposal.md/pdf"
+Submit your project proposal as a [markdown document](https://guides.github.com/features/mastering-markdown/) (recommended) or a pdf to the GitHub repo for your project. The file name should be "proposal.md/pdf"
 
 GitHub invitation: https://classroom.github.com/a/-tRvZPwb
 
