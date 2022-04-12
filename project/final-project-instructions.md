@@ -8,7 +8,7 @@ There are a few milestones for the final project.
 
 1. **April 13, Wednesday**: Project Proposal. (50 points).
 2. **April 25, Monday**: Project Progress Update (50 points).
-3. **May 9:** Project Presentation (45 points for your presentation, 5 points for your participation in other students’ presentations).
+3. **May 10:** Project Presentation (45 points for your presentation, 5 points for your participation in other students’ presentations).
 4. **May 17**: Final Project Report and Project Repo (150 points).
 
 # General Project Requirements
