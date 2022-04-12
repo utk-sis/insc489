@@ -42,7 +42,7 @@ The dataset should be complex and challenging enough to an interesting final pro
 
 To ensure everyone has different project dataset, please **list your dataset on this Canvas page** :
 
-[https://utk.instructure.com/courses/121275/pages/data-selection](https://utk.instructure.com/courses/121275/pages/data-selection) 
+[https://utk.instructure.com/courses/141279/pages/data-selection?module_item_id=2496794](https://utk.instructure.com/courses/141279/pages/data-selection?module_item_id=2496794) 
 
 (You can edit this page by clicking Edit button on the page.)
 
