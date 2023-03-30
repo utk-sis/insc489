@@ -40,9 +40,7 @@ You can choose any public open dataset. You may find one of these resources usef
 
 The dataset should be complex and challenging enough to an interesting final project.
 
-To ensure everyone has different project dataset, please **list your dataset on this Canvas page** :
-
-[https://utk.instructure.com/courses/141279/pages/data-selection?module_item_id=2496794](https://utk.instructure.com/courses/141279/pages/data-selection?module_item_id=2496794) 
+To ensure everyone has different project dataset, please **list your dataset on the Canvas page of Data Selection**
 
 (You can edit this page by clicking Edit button on the page.)
 
